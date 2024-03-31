@@ -87,7 +87,7 @@ function ProductDetail(props) {
             <hr />
             <div className="productDetailContent2">
               <div className="productDetailContent2Left">
-                <p className="dollarSign">$</p>
+                <p className="dollarSign">₹</p>
                 <p className="mainPrice">{mainPrice}</p>
                 <p className="subPrice">{subPrice}</p>
               </div>

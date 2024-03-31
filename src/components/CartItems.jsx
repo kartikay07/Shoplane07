@@ -79,7 +79,7 @@ function CartItems(props) {
           </div>
           <div className="productPriceDivInCart">
             <div className="productPriceDiv">
-              <p className="dollarSign">$</p>
+              <p className="dollarSign">₹</p>
               <p className="mainPrice">{mainPrice}</p>
               <p className="subPrice">{subPrice}</p>
             </div>
