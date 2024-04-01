@@ -63,7 +63,7 @@ function WishlistItems(props) {
           </div>
           <div className="priceDiv">
             <div className="productPriceDiv">
-              <p className="dollarSign">$</p>
+              <p className="dollarSign">₹</p>
               <p className="mainPrice">{mainPrice}</p>
               <p className="subPrice">{subPrice}</p>
             </div>
